@@ -1,7 +1,9 @@
 # Landing page basica
 
 <h1>Página web basica</h1>
+
 <h2>Técnologias</h2>
-![Tailwantcss](https://img.shields.io/badge/-Tailwantcss-000?&logo=Tailwantcss)&emsp;
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&emsp;
+
 <p>Creación de una página web con ReactJs y Tailwantcss, donde solo incluye el header, body y unas card de 3 columnas.</p>
