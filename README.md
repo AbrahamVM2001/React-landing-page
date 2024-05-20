@@ -1,7 +1,5 @@
 # Landing page basica
 
-<h1>Página web basica</h1>
-
 <h2>Técnologias</h2>
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&emsp;
