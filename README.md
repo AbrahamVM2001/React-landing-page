@@ -7,6 +7,6 @@
 
 <p>Creación de una página web con ReactJs y Tailwantcss, donde solo incluye el header, body y unas card de 3 columnas.</p>
 
-<h2>IDE<h2>
+<h2>IDE</h2>
 
 <p>La codificación del proyecto se llevo acabo dentro del IDX Google como IDE</p>
